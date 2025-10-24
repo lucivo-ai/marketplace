@@ -1,0 +1,18 @@
+{
+  "name": "lucivo-tools",
+  "owner": {
+    "name": "Lucivo Dev Team",
+    "email": "adam@lucivo.ai"
+  },
+  "plugins": [
+    {
+      "name": "code-reviewer",
+      "source": "./plugins/code-reviewer",
+      "description": "Code review agent",
+      "version": "1.0.0",
+      "author": {
+        "name": "Adam Price"
+      } 
+    }
+  ]
+}
