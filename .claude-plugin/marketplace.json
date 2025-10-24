@@ -7,12 +7,15 @@
   "plugins": [
     {
       "name": "code-reviewer",
-      "source": "./plugins/code-reviewer",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucivo-ai/marketplace.git"
+      },
       "description": "Code review agent",
       "version": "1.0.0",
       "author": {
         "name": "Adam Price"
-      } 
+      }
     }
   ]
 }
