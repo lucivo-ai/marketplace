@@ -16,6 +16,8 @@
       "author": {
         "name": "Adam Price"
       },
+      "repository": "https://github.com/lucivo-ai/marketplace",
+      "strict": "false",
       "commands": [
         "./commands/code-reviewer-unpublished-commits.md"
       ],
