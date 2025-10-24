@@ -15,7 +15,13 @@
       "version": "1.0.0",
       "author": {
         "name": "Adam Price"
-      }
+      },
+      "commands": [
+        "./commands/code-reviewer-unpublished-commits.md"
+      ],
+      "agents": [
+        "./agents/code-reviewer.md"
+      ]
     }
   ]
 }
